@@ -1,0 +1,9 @@
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\bin\Debug\Paintproject.exe.config
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\bin\Debug\Paintproject.exe
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\bin\Debug\Paintproject.pdb
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.csprojResolveAssemblyReference.cache
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.Paintform.resources
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.Properties.Resources.resources
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.csproj.GenerateResource.Cache
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.exe
+c:\users\tsahi\documents\visual studio 2013\Projects\Paintproject\Paintproject\obj\Debug\Paintproject.pdb
